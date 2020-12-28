@@ -8,5 +8,5 @@ Deployed at: _https://ipl-first-innings-score.herokuapp.com_
 
 • A glimpse of the web app:
 
- ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
+ ![GIF](readme_resources/First Innings Score Predictor.mp4)
  
