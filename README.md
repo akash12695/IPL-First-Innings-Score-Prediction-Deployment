@@ -7,7 +7,7 @@
 
 ## Project Overview
 • Created a model that predicts the score (in terms of range) of IPL matches<br/>
-• Optimized Multiple-Linear, Decision Tree, Random Forest, and AdaBoost regression models 
+• Optimized Multiple Linear Regression, Decision Tree, Random Forest, and AdaBoost regression models 
 
 ## How will this project help?
 • This project is for the fantasy cricket fans out there, helping them to earn extra fantasy points for Dream11 IPL 2020
