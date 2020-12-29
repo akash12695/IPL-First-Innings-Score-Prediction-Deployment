@@ -1,6 +1,6 @@
 # IPL First Innings Score Prediction - Deployment
 
-![Screenshot](readme-resources/first-innings-banner.png)
+![FISP](readme_resources/first-innings-banner.png)
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
