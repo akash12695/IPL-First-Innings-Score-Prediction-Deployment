@@ -21,10 +21,10 @@
 
 ## Model Building and Evaluation
 Evaluation metric: Root Mean Squared Error (RMSE)<br/>
-• Multiple Linear Regression - 15.843 <br/>
-• Decision Tree - 23.044<br/>
-• Random Forest - 18.171<br/>
-• **Adaptive Boosting (AdaBoost) - 15.798**
+• Linear Regression - 15.843 <br/>
+• Decision Tree - 22.78<br/>
+• Random Forest - 18.20<br/>
+• **Adaptive Boosting (AdaBoost) - 15.79**
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
