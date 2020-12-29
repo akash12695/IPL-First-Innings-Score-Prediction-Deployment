@@ -12,5 +12,5 @@ Link: https://github.com/akash12695/IPL-First-Innings-Score-Prediction-Deploymen
 • A glimpse of the web app:
 
  
-  ![Video](readme_resources/First inning score predictor.mp4)
+  ![GIF](readme_resources/First innings score predictor.gif)
  
